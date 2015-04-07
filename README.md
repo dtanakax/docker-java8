@@ -4,14 +4,14 @@
 
 ### Base Docker Image
 
-[debian:wheezy](https://registry.hub.docker.com/_/debian/ "debian:wheezy")
+[debian:wheezy](https://registry.hub.docker.com/_/debian/)
 
 ### 説明
 
 Debian+Java8 Dockerコンテナイメージです。
 
-[Dockerとは？](https://docs.docker.com/ "Dockerとは？")  
-[Docker Command Reference](https://docs.docker.com/reference/commandline/cli/ "Docker Command Reference")
+[Dockerとは？](https://docs.docker.com/)  
+[Docker Command Reference](https://docs.docker.com/reference/commandline/cli/)
 
 ### 使用方法
 
