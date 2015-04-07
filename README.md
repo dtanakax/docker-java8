@@ -21,11 +21,11 @@ git pull後に
 
 イメージ作成
 
-    $ docker build -t <tag>/java8 .
+    $ docker build -t tanaka0323/java8 .
 
 起動
 
-    $ docker run --name <name> -ti <tag>/java8 bash
+    $ docker run --name <name> -ti tanaka0323/java8 bash
 
 ### License
 
