@@ -1,19 +1,23 @@
 ![java 8](https://img.shields.io/badge/java-8-brightgreen.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# docker-java8
+docker-java8
+=====================
 
-### Base Docker Image
+Base Docker Image
+---------------------
 
 [debian:wheezy](https://registry.hub.docker.com/_/debian/)
 
-### 説明
+説明
+---------------------
 
 Debian+Java8 Dockerコンテナイメージです。
 
 [Dockerとは？](https://docs.docker.com/)  
 [Docker Command Reference](https://docs.docker.com/reference/commandline/cli/)
 
-### 使用方法
+使用方法
+---------------------
 
 git pull後に
 
@@ -27,7 +31,8 @@ git pull後に
 
     $ docker run --name <name> -ti tanaka0323/java8 bash
 
-### License
+License
+---------------------
 
 The MIT License
 Copyright (c) 2015 Daisuke Tanaka
