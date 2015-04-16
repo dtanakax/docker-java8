@@ -6,7 +6,7 @@ docker-java8
 Base Docker Image
 ---------------------
 
-[debian:wheezy](https://registry.hub.docker.com/_/debian/)
+[tanaka0323/debianjp:wheezy](https://registry.hub.docker.com/u/tanaka0323/debianjp/)
 
 説明
 ---------------------
